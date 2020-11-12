@@ -1,0 +1,7 @@
+{
+  "name": "IonicCard",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
